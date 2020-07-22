@@ -8,4 +8,4 @@ to compte your portfolio's efficient frontier.
 
 ## Reference
 * 《資料分析與市場預測》。作者，上田太一郎。ISBN : 9789574428281
-*《Python與量化投資》。 ISBN : 9787121338571 
+* 《Python與量化投資》。 ISBN : 9787121338571 
